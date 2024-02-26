@@ -9,9 +9,9 @@ Para completar esta asignación, sigue los pasos a continuación:
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `main.py` y completa el código necesario para realizar las operaciones básicas.
 3. Ejecuta el programa y verifica que funcione correctamente.
-4. Completa las pruebas unitarias en el archivo `test_main.py` para asegurarte de que el programa se comporte como se espera en diferentes situaciones.
-5. Asegúrate de que todas las pruebas pasen correctamente.
-6. Sube tus cambios al repositorio y envía el enlace de tu repositorio como respuesta a la asignación en GitHub Classroom.
+4. Asegúrate de que todas las pruebas pasen correctamente.
+   instale el paquete pytest con el comando `pip install pytest` y ejecute las pruebas con el comando `pytest`
+5. Sube tus cambios al repositorio y envía el enlace de tu repositorio como respuesta a la asignación en GitHub Classroom.
 
 ## Estructura del Repositorio
 
